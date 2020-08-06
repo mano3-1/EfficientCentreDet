@@ -13,3 +13,7 @@ You can find the data here : https://www.kaggle.com/c/global-wheat-detection/dat
 4. Adding noise drastically increased performance.
 ## Improvements that can be done
 Splitting the data in a startified way. Considering, the height of bounding box to height of image or width of bounding box to width of image as parameter and splitting the data and ensembling the models might improve the performance.
+## Results
+!['Result1'](https://github.com/mano3-1/EfficientCentreDet/blob/master/Results/result1.jpeg)
+!['Result2'](https://github.com/mano3-1/EfficientCentreDet/blob/master/Results/result2.png)
+!['Result3'](https://github.com/mano3-1/EfficientCentreDet/blob/master/Results/result3.png)
