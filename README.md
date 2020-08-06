@@ -1,5 +1,8 @@
 # EfficientCentreDet
 This is a hybrid variety of detection models which is inspired from bothe centrenet and EfficientDet. This model is as fast as centrenet and much accurate due to the fusion blocks. The model is designed such that it can detect small and medium objects accurately.
+## Data
+This model is trained on the wheat data which is available in kaggle.
+You can find the data here[https://www.kaggle.com/c/global-wheat-detection/data]
 ## objectives
 1. Speed along with accuracy
 2. Detecting small objects 
