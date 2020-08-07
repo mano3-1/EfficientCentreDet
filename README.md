@@ -12,7 +12,9 @@ You can find the data here : https://www.kaggle.com/c/global-wheat-detection/dat
 3. Both NMS and maxpooling can be used with this model.(NMS gave better results than maxpooling.)
 4. Adding noise drastically increased performance.
 ## Improvements that can be done
-Splitting the data in a startified way. Considering, the height of bounding box to height of image or width of bounding box to width of image as parameter and splitting the data and ensembling the models might improve the performance.
+1. Splitting the data in a startified way. Considering, the height of bounding box to height of image or width of bounding box to width of image as parameter and splitting the data and ensembling the models might improve the performance.
+2. Data mixup augmentation.(src : https://www.youtube.com/watch?v=a-VQfQqIMrE)
+
 ## Results
 !['Result1'](https://github.com/mano3-1/EfficientCentreDet/blob/master/Results/result1.jpeg)
 !['Result2'](https://github.com/mano3-1/EfficientCentreDet/blob/master/Results/result2.png)
